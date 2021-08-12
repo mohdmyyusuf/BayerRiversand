@@ -14,6 +14,7 @@ import com.bayer.qa.util.XlsReader;
 
 public class LoginPageTests extends BaseBayerTest {
 	
+	//Object of lgin page
 	LoginPage loginpageObj;
 	XlsReader obj = new XlsReader();
 
